@@ -16,6 +16,7 @@
         "altorouter/altorouter": "^1.2",
         "symfony/var-dumper": "^4.3",
         "filp/whoops": "^2.5",
-        "robmorgan/phinx": "^0.10.8"
+        "robmorgan/phinx": "^0.10.8",
+        "fzaninotto/faker": "^1.8"
     }
 }
