@@ -1,0 +1,21 @@
+{
+    "name": "lea/tutoblog",
+    "authors": [
+        {
+            "name": "Léa Gastienne",
+            "email": "leamanantsoa.dev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": ["functions.php"]
+    },
+    "require": {
+        "altorouter/altorouter": "^1.2",
+        "symfony/var-dumper": "^4.3",
+        "filp/whoops": "^2.5",
+        "robmorgan/phinx": "^0.10.8"
+    }
+}
