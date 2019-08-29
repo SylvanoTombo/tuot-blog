@@ -18,8 +18,8 @@ environments:
         adapter: mysql
         host: localhost
         name: tutoblog
-        user: root
-        pass: ''
+        user: sylvanito
+        pass: 'sylvanito'
         port: 3306
         charset: utf8
 
